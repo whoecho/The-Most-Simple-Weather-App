@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+*{
+
+  font-family: 'Edu VIC WA NT Beginner', cursive, -apple-system, BlinkMacSystemFont,'Russo One', 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+
+  color: #f9fdff;
+
+}
+.App {
+  h1{
+   font-size: 35px;
+  }
+p{font-size: 100px}
+
+  img{
+    margin: 80px;
+    border-radius: 20px;
+  }
+  text-align: center;
+
+
+
+
+}
+.card{
+  border:  1px rgba(249, 253, 255, 0.16) solid;
+  margin:0px auto;
+  margin-top: 175px;
+  box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.53);
+  padding: 40px;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 0.31);
+  width: 850px;
+  height: 490px;
+.loader{
+ margin: 145px;
+}
+
+}
+.header{
+    text-align: left;
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px rgba(249, 253, 255, 0.16) solid;
+border-bottom: 1px rgba(249, 253, 255, 0.16) solid;
+  align-items: center;
+}
+.footer{
+  display: flex;
+  border-top: 1px rgba(249, 253, 255, 0.16) solid;
+  justify-content: space-between;
+
+}
+.under{
+margin-top: 45px;
+  justify-content: center;
+display: flex;
+input{
+  box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.53);
+  text-align: center;
+font-size: 30px;
+border-radius:20px 0  0  20px;
+  border-style:none ;
+  height: 50px;
+  width: 300px;
+  color: black;
+}
+
+  button{
+cursor: pointer;
+    box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.53);
+    background-color: rgba(255, 255, 255, 0.51);
+    border-style: none;
+    border-radius: 0 20px 20px 0  ;
+    height:52px;
+    transition: all 0.2s ease-in-out;
+  }
+  button:hover{
+    box-shadow: 0px 0px 20px #4b6cb7;
+    background-color: #4b6cb7;
+  }
+}
+
+
+
+
+
