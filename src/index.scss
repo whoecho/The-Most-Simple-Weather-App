@@ -1,0 +1,29 @@
+* {
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+  font-family: 'Russo One';
+}
+
+body {
+  background: linear-gradient(-45deg, #8d3729, #a1627a, #375a6b, #699389);
+  background-size: 400vh 400vh;
+  animation: gradient 115s ease infinite;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont,'Russo One', 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+
