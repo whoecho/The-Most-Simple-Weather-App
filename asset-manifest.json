@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vasilykhromykh/The-Most-Simple-Weather-App/static/css/main.5a05f165.css",
+    "main.js": "/vasilykhromykh/The-Most-Simple-Weather-App/static/js/main.7650f8a2.js",
+    "static/js/787.746d8658.chunk.js": "/vasilykhromykh/The-Most-Simple-Weather-App/static/js/787.746d8658.chunk.js",
+    "static/media/logo.svg": "/vasilykhromykh/The-Most-Simple-Weather-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vasilykhromykh/The-Most-Simple-Weather-App/index.html",
+    "main.5a05f165.css.map": "/vasilykhromykh/The-Most-Simple-Weather-App/static/css/main.5a05f165.css.map",
+    "main.7650f8a2.js.map": "/vasilykhromykh/The-Most-Simple-Weather-App/static/js/main.7650f8a2.js.map",
+    "787.746d8658.chunk.js.map": "/vasilykhromykh/The-Most-Simple-Weather-App/static/js/787.746d8658.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a05f165.css",
+    "static/js/main.7650f8a2.js"
+  ]
+}
